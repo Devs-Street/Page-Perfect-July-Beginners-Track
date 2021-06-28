@@ -2,7 +2,7 @@
 Page Perfect July is a Web Development Project based program initiated by Devs' Street exclusively for the Core team members.<br />
 It aims to mentor the teammates to strengthen their web development and web design skills while building the websites that are helpful to people.
 <br /><br />
-## The program is divided into 3 tracks namely: <br/>
+## The program is divided into 3 tracks namely- <br/>
 
   * Newbies 
   * Beginners
