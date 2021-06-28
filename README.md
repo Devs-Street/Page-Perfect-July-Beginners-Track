@@ -29,8 +29,8 @@ some useful resources. <br />
 * [Likhith](https://github.com/Likhith04)
 * [Oviya R](https://github.com/OviyaR)
 * [Prayasu Sidha Satapathy](https://github.com/prayasu-satapathy)
-* [priyanka saini](https://github.com/priyankasaini69)
-* [shivanshi](https://github.com/shivanshi-s)
+* [Priyanka saini](https://github.com/priyankasaini69)
+* [Shivanshi](https://github.com/shivanshi-s)
 * [Soumil Datta](https://github.com/datta-soumil)
 
 
